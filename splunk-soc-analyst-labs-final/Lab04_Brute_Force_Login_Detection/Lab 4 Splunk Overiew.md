@@ -25,12 +25,9 @@ index=windows_logs EventCode=4625
 ⑤ Visualize, enrich, or correlate events as needed.
 
 ## Screenshots
-Save your visual output here:
+Visual output here:
 
-```
-/screenshots/
-└── example_output.png
-```
+![Lab 4 Screenshot](Lab4.png)
 
 ## Notes
 This lab is designed to be modular. You can enhance it with additional SPL, saved searches, or dashboard panels as your skills grow.
