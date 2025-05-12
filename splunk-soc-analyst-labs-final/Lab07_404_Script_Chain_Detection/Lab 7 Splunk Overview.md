@@ -27,10 +27,7 @@ index=apache_day1 status=404
 ## Screenshots
 Save your visual output here:
 
-```
-/screenshots/
-└── example_output.png
-```
+![Lab 7 Screenshot](Lab7.png)
 
 ## Notes
 This lab is designed to be modular. You can enhance it with additional SPL, saved searches, or dashboard panels as your skills grow.
