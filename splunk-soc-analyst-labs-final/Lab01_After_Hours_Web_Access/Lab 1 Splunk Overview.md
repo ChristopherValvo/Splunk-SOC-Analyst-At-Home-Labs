@@ -24,9 +24,6 @@ index=apache_day1
 ④ Save the search as a report, alert, or dashboard panel.  
 ⑤ Visualize, enrich, or correlate events as needed.
 
-## Screenshots
-Save your visual output here:
-
 # Screenshots
 
 Visual output here:
