@@ -28,7 +28,7 @@ index=apache_day1
 Save your visual output here:
 
 ```
-![Lab 1](https://github.com/user-attachments/assets/e73015c0-1c0f-4ae3-8235-009035280f04)
+
 
 
 └── 
