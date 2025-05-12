@@ -27,16 +27,12 @@ index=apache_day1
 ## Screenshots
 Save your visual output here:
 
-```
+# Screenshots
+
+Visual output here:
 
 ![Lab 1 Screenshot](Lab1.png)
 
-
-
-
-
-└── 
-```
 
 ## Notes
 This lab is designed to be modular. You can enhance it with additional SPL, saved searches, or dashboard panels as your skills grow.
