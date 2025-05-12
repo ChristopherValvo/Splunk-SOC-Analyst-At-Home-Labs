@@ -27,10 +27,7 @@ index=windows_logs sourcetype=csv
 ## Screenshots
 Save your visual output here:
 
-```
-/screenshots/
-└── example_output.png
-```
+![Lab 9 Screenshot](Lab9.png)
 
 ## Notes
 This lab is designed to be modular. You can enhance it with additional SPL, saved searches, or dashboard panels as your skills grow.
