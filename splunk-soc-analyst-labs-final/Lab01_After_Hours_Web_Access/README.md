@@ -28,7 +28,9 @@ index=apache_day1
 Save your visual output here:
 
 ```
+
 ![Lab 1 Screenshot](Lab1.png)
+
 
 
 
