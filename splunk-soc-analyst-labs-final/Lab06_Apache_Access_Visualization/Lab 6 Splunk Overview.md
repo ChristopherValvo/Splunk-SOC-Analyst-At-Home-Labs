@@ -1,7 +1,7 @@
 # Lab 6: Apache Access Visualization
 
 ## Description
-This lab demonstrates how to perform a Splunk detection or engineering task. It simulates a real SOC task using Splunk Enterprise or Splunk Cloud.
+This lab demonstrates how to perform a Splunk detection, then creating SOC dashboards. It simulates a real SOC task using Splunk Enterprise or Splunk Cloud.
 
 ## Key Skills Practiced
 - ✅ Writing custom SPL queries
