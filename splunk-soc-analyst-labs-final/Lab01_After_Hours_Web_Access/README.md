@@ -28,8 +28,9 @@ index=apache_day1
 Save your visual output here:
 
 ```
-/screenshots/
-└── example_output.png
+/screenshots/![Lab 1](https://github.com/user-attachments/assets/87d7b004-f90c-4abc-826a-0aed9e24b239)
+
+└── 
 ```
 
 ## Notes
