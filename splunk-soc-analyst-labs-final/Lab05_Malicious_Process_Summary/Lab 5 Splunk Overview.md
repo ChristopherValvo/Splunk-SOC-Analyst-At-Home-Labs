@@ -27,10 +27,10 @@ index=windows_logs EventCode=4688
 ## Screenshots
 Save your visual output here:
 
-```
+![Lab 5 Screenshot](Lab5.png)
 /screenshots/
 └── example_output.png
-```
+
 
 ## Notes
 This lab is designed to be modular. You can enhance it with additional SPL, saved searches, or dashboard panels as your skills grow.
