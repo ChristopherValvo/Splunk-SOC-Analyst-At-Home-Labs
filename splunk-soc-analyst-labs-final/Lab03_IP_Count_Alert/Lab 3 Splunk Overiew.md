@@ -25,12 +25,9 @@ index=apache_day1
 ⑤ Visualize, enrich, or correlate events as needed.
 
 ## Screenshots
-Save your visual output here:
+Visual output here:
+![Lab 3 Screenshot](Lab3.png)
 
-```
-/screenshots/
-└── example_output.png
-```
 
 ## Notes
 This lab is designed to be modular. You can enhance it with additional SPL, saved searches, or dashboard panels as your skills grow.
