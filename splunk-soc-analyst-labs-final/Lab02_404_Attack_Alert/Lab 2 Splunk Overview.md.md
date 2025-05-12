@@ -25,7 +25,9 @@ index=apache_day1 status=404
 ⑤ Visualize, enrich, or correlate events as needed.
 
 ## Screenshots
-Save your visual output here:
+Visual output here:
+
+![Lab 2 Screenshot](Lab2.png)
 
 ```
 /screenshots/
