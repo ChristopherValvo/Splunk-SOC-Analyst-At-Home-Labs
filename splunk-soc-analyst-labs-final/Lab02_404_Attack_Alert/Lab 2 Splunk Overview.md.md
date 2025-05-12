@@ -29,10 +29,5 @@ Visual output here:
 
 ![Lab 2 Screenshot](Lab2.png)
 
-```
-/screenshots/
-└── example_output.png
-```
-
 ## Notes
 This lab is designed to be modular. You can enhance it with additional SPL, saved searches, or dashboard panels as your skills grow.
