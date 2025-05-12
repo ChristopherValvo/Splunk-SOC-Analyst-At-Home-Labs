@@ -28,7 +28,8 @@ index=apache_day1
 Save your visual output here:
 
 ```
-/screenshots/![Lab 1](https://github.com/user-attachments/assets/87d7b004-f90c-4abc-826a-0aed9e24b239)
+![Lab 1](https://github.com/user-attachments/assets/e73015c0-1c0f-4ae3-8235-009035280f04)
+
 
 └── 
 ```
